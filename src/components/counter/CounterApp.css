@@ -1,0 +1,24 @@
+body{
+    background: #f0f0f0
+}
+
+.heading{
+    text-align: center;
+    font-weight: 800;
+    margin: 20px;
+}
+
+.value{
+    text-align: center;
+}
+
+.btn-group{
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.btn{
+    justify-content: center;
+    width: 30%;
+}
